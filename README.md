@@ -1,14 +1,24 @@
 # API & Challenges available at food{hacks}
 
-For infos about the event please check out the event description at [our event page](www.food-hacks.de)
+For more information on the event please check out the event description at [our event page](www.food-hacks.de)
 
-## Available APIs & Datasets with a related challenges
-TODO
+## APIs & Datasets with a related challenges
+We will announce challenges  soon. There will be a dedicated prize for this challenges, dedicated for the best solution of the problem described in the challenge.
+
+## APIs provided by our API Sponsors with specific prize
+We will anounce API prizes soon. There will be a dedicated prize for the best usage of every api.
 
 ## APIs provided by our API Partners
-TODO
+For this APIs there is no special API prizes.
 
-### Format for an API a description
+## Challenge & API Workshops at food{hacks}
+We will announce the schedule soon.
+
+
+## Information for API and Challenges Sponsors and Partners
+A description should include the following:
+
+### Format of an API a description
 
 1. General API description
   * What is the content of data that can be retrieved
