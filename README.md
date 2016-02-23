@@ -1,6 +1,6 @@
 # API & Challenges available at food{hacks}
 
-For infos about the event please check out the event description at (our event page)[www.food-hacks.de]
+For infos about the event please check out the event description at [our event page](www.food-hacks.de)
 
 ## Available APIs & Datasets with a related challenges
 TODO
@@ -21,7 +21,7 @@ TODO
   * If your API is closed bring the api keys or logins to the event
 4. API Route description
   * Describe all routes of your api
-  * We suggest that you provide a (postman)[www.getpostman.com] collection of all api endpoints with example parameters
+  * We suggest that you provide a [postman](www.getpostman.com) collection of all api endpoints with example parameters
 5. Coding examples
   * One might include python, javascript and java as example languages
 
