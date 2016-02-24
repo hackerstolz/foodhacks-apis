@@ -46,3 +46,21 @@ A description should include the following:
 3. Detailed dataset description
   * If you provide a csv or json, please describe what each fields means and what datatype it has
   * When you plan to provide a database dump, describe possibilities to play it back in
+  
+### Timeline 
+
+####  You want feedback on your challenge/API from us: 
+*  16. March 2016: Hand in challenge/api description including access to the dataset and or the API (or at least a description)
+*  16. March 2016: Announce the challenge/api price to Hackerstolz Team
+*  23. March 2016: Hand in a first version of workshop presentation
+*  23. March 2016: Hand your job postings
+*  29. March 2016: Tell  organisation team who will act as corporate contact at the event and hand in the final presentation
+*  1. - 3. April: Enjoy the Hackathon
+
+#### You don´t want feedback:
+*  16. March 2016: Announce challenge/api price to Hackerstolz Team
+*  23. March 2016: Hand in challenge/api description including access to dataset and or API (or at least a description) 
+*  23. March 2016: Hand your job postings
+*  29. March 2016: Hand  workshop presentations
+*  29. March 2016: Tell  organisation team who will act as corporate contact at the event and hand in the final presentation
+*  1. - 3. April: Enjoy the Hackathon
