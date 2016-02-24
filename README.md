@@ -23,7 +23,7 @@ A description should include the following:
 1. General API description
   * What is the content of data that can be retrieved
   * Give an introduction to the general datamodel
-2. Goal of the challenges (if you are a challenge sponsor)
+2. Goal of the challenge (if you are a challenge sponsor)
   * This should include the problem that you want to tackle.
   * Do you want them to use your data in a specific way or should the challenge be more open.
 3. Authentification
@@ -40,7 +40,7 @@ A description should include the following:
 1. General Dataset description
   * What is the content of data that can be retrieved
   * Give an introduction to the general datamodel
-2. Goal of the challenges (if you are a challenge sponsor)
+2. Goal of the challenge (if you are a challenge sponsor)
   * This should include the problem that you want to tackle.
   * Do you want them to use your data in a specific way or should the challenge be more open.
 3. Detailed dataset description
