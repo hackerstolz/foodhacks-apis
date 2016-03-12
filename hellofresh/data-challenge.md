@@ -24,4 +24,4 @@
 
 - Another possibility is to categorize by cuisines where the ingredients can traditionally be found (e.g.: mediterranean, vegan, vegetarian, arabic, asian, etc.).
 
-- These are simple suggestions, feel free to come up with any other categorization schemas, datasets to use, information do associate to each ingredient or any other you ideas you might have! Have fun and happy hacking! =)
+- These are simple suggestions, feel free to come up with any other categorization schemas, datasets to use, information to associate to each ingredient, or any other you ideas you might have! Have fun and happy hacking! =)
