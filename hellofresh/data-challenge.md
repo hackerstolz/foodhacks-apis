@@ -18,7 +18,7 @@
 
  - Level 1: Main Category (e.g.: meat, dairy, vegetable, fruit, carbohydrate, etc.)
 
- - Level 2: Sub-Category (e.g.: beef, pork, chicken; milk, cheese, yoghurt; tomatoes, carrots, beans; orange, apple, pear; potatoes, rice, pasta, etc.)
+ - Level 2: Sub-Category (e.g.: beef, pork, chicken; milk, cheese, yoghurt; tomatoes, carrots, beans; orange, apple, pear; potatoes, rice, pasta, etc.), there should be no more than 100 sub-categories.
 
  - Level 3: Unique Name (e.g.: sirloin steak; gouda cheese; heirloom tomato; mandarin orange; linguine) and nutritional values associated to each unique ingredient (e.g.: energy, carbohydrates, fat, protein, vitamins, minerals)
 
