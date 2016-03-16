@@ -12,7 +12,7 @@
 ## Challenge Description
 - The goal of the challenge is to allow customers to find a HelloFresh recipe they can cook with ingredients that they would have at home.
 - Any type of application can be delivered for this challenge (mobile, web app, or even a console app) although a mobile app that can run natively on either iOS or Android is preferred.
-- UX and UI will also be under apreciation, and they should be consistent with the look & feel you can find on the HelloFresh websites and apps.
+- UX and UI will also be under appreciation, and they should be consistent with the look & feel you can find on the HelloFresh websites and apps.
 - Failure resilience is also an important characteristic of your codebase. The app should fail gracefully if it's not connected to the internet, if the API endpoints are not accessible, or if the API responses are not exactly as expected.
 
 Have fun!
