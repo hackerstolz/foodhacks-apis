@@ -14,3 +14,7 @@
 - Failure resilience is also an important characteristic of your codebase. The app should fail gracefully if it's not connected to the internet, if the API endpoints are not accessible, or if the API responses are not exactly as expected.
 
 Have fun!
+
+<p align="center">
+    <img alt="HelloFresh Logo" src="https://www.hellofresh.com/images/hellofresh-logo.png" />
+</p>
