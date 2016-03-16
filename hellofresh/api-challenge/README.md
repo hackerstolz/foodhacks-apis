@@ -7,7 +7,6 @@
   - Plus, you should attend the API workshop that our Head of Platform Engineering (@pgscandeias) will give at the event.
   - You will also need to issue a valid HelloFresh API token at an url that will be announced at the event.
 
-- To be able to interact with our API, you will need an access token. The URL to retrieve a token for will be communicated at the event.
 
 ## Challenge Description
 - The goal of the challenge is to allow customers to find a HelloFresh recipe they can cook with ingredients that they would have at home.
