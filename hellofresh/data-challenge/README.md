@@ -7,7 +7,7 @@
 ## Challenge Description
 - The goal for this challenge is to categorize and to enrich each ingredient with more information by means of a computer program. Ingredients are easily categorizable using a human eye, but not so easily categorizable using machines. For example, we as humans know that "Sirloin Steak" is "beef", but a machine does not.
 
-- From a list of around 4,500 ingredients, your algorithm should be able to successfully extract, for instance, all "beef" ingredients. You might want to integrate information from external data sources by matching the HelloFresh ingredient names to a particular category.
+- From a list of around 4,100 ingredients, your algorithm should be able to successfully extract, for instance, all "beef" ingredients. You might want to integrate information from external data sources by matching the HelloFresh ingredient names to a particular category.
 
 - Publicly available datasets are your friend! For instance, we can suggest:
   - Wikipedia Infoboxes of ingredients (e.g. [Brocolli](https://en.wikipedia.org/wiki/Broccoli)).
