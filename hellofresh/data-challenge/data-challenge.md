@@ -28,3 +28,7 @@
 - These are simple suggestions, feel free to come up with any other categorization schemas, datasets to use, information to associate to each ingredient, or any other you ideas you might have! 
 
 Have fun!
+
+<p align="center">
+    <img alt="HelloFresh Logo" src="https://www.hellofresh.com/images/hellofresh-logo.png" />
+</p>
