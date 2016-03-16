@@ -5,6 +5,8 @@
 - Information you need to interact with the HelloFresh API:
   - API documentation is available on this URL: http://hellofresh.github.io/slate/.
   - Plus, you should attend the API workshop that our Head of Platform Engineering (@pgscandeias) will give at the event.
+  - You will also need to issue a valid HelloFresh API token at an url that will be announced at the event.
+
 - To be able to interact with our API, you will need an access token. The URL to retrieve a token for will be communicated at the event.
 
 ## Challenge Description
