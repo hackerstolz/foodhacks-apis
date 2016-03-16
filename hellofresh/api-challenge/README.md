@@ -1,10 +1,10 @@
 # HelloFresh Challenge - API
 
 ## General API Description
-- The HelloFresh API is currently powering most of our customer facing applications: both our iOS and Android apps as well as website.
-- All the documentation you will need to interact with the HelloFresh API you can get:
-  - On this documentation page: http://hellofresh.github.io/slate/.
-  - Plus by attending the API workshop that our Head of Platform Engineering (@pgscandeias) will give at the event.
+- The HelloFresh API is currently powering most of our customer facing applications: both our iOS and Android apps as well as our websites.
+- Information you need to interact with the HelloFresh API:
+  - API documentation is available on this URL: http://hellofresh.github.io/slate/.
+  - Plus, you should attend the API workshop that our Head of Platform Engineering (@pgscandeias) will give at the event.
 - To be able to interact with our API, you will need an access token. The URL to retrieve a token for will be communicated at the event.
 
 ## Challenge Description
