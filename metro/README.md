@@ -153,9 +153,9 @@ A example reponse could look like this:
 
 
 ## Examples
-This is simple example to get the sales order items of a specific item
+This is simple example to get the sales order items of a specific item using python3 as a programming language
 
-````
+```python
 import requests
 import json
 
@@ -206,6 +206,6 @@ headers = {
 response = requests.request("GET", sales_order_items_url, headers=headers, params=querystring)
 
 sales_order_items = json.loads(response.text)
-````
+```
 
 
