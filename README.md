@@ -5,11 +5,18 @@ For more information on the event please check out the event description at [our
 ## APIs & Datasets with a related challenges
 We will announce challenges  soon. There will be a dedicated prize for this challenges, dedicated for the best solution of the problem described in the challenge.
 
-## APIs provided by our API Sponsors with specific prize
-We will anounce API prizes soon. There will be a dedicated prize for the best usage of every api.
+- [HelloFresh Data Challenge](https://github.com/hackerstolz/foodhacks-apis/tree/master/hellofresh/data-challenge)
+- [HelloFresh API Challenge](https://github.com/hackerstolz/foodhacks-apis/tree/master/hellofresh/api-challenge)
+- [Metro Challenge](https://github.com/hackerstolz/foodhacks-apis/tree/master/metro)
+- [Lidl Challenge](https://github.com/hackerstolz/foodhacks-apis/tree/master/lidl)
+- [Minodes Challenge](https://github.com/hackerstolz/foodhacks-apis/tree/master/minodes)
+
 
 ## APIs provided by our API Partners
 For this APIs there is no special API prizes.
+- Spoonacular
+- Disconto
+- Imagga
 
 ## Challenge & API Workshops at food{hacks}
 We will announce the schedule soon.
