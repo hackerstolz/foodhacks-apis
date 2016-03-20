@@ -52,5 +52,5 @@ TBA
 - Head of Lidl Digital as Challenge-Partner for your team (Names)
 
 <p align="center">
-    <img alt="Lidl Logo" src="http://logonoid.com/lidl-logo" width="250px" />
+    <img alt="Lidl Logo" src="http://www.lidl.com/images/logo.svg" width="250px" />
 </p>
