@@ -1,5 +1,9 @@
 # Metro Challenge
 
+<p align="center">
+    <img alt="Metro Logo" src="http://logodatabases.com/wp-content/uploads/2012/05/metro-ag-logo.jpg" width="250px" />
+</p>
+
 ## Challenge Description
 TBA
 
@@ -204,6 +208,4 @@ response = requests.request("GET", sales_order_items_url, headers=headers, param
 sales_order_items = json.loads(response.text)
 ````
 
-<p align="center">
-    <img alt="Metro Logo" src="http://logodatabases.com/wp-content/uploads/2012/05/metro-ag-logo.jpg" width="250px" />
-</p>
+
