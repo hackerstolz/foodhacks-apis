@@ -52,7 +52,7 @@ Lidl will provide two datasets as mentioned above. A detailled description can b
 TBA
 
 ## Contacts
-- Teamleader Lidl Mobile 
-- Head of Lidl Digital as Challenge-Partner for your team (Names)
+- Arthur Jonas (Teamleader Lidl Mobile)
+- Philipp Götting (Head of Lidl Digital)
 
 
