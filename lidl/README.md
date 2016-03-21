@@ -1,5 +1,9 @@
 # Revolutionize it! Kick the stale. Make mobile shopping a real fun experience!
 
+<p align="center">
+    <img alt="Lidl Logo" src="http://www.lidl.com/images/logo.svg" width="250px" />
+</p>
+
 ## Challenge Description
 Let us together disrupt the mobile shopping exerperience.
 
@@ -51,6 +55,4 @@ TBA
 - Teamleader Lidl Mobile 
 - Head of Lidl Digital as Challenge-Partner for your team (Names)
 
-<p align="center">
-    <img alt="Lidl Logo" src="http://www.lidl.com/images/logo.svg" width="250px" />
-</p>
+
