@@ -15,7 +15,7 @@ Will be provided soon, but it will be something awesome :-).
 ## Data Model
 
 ### Routes
-Will come soon, aaaan we use websockets!
+Will come soon, aaaand we use websockets!
 
 ## Example Program
 Here you will see how a basic programm using our API looks like.
