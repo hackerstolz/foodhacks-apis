@@ -19,7 +19,18 @@ For this APIs there is no special API prizes.
 - [Imagga](https://imagga.com/)
 
 ## Challenge & API Workshops at food{hacks}
-We will announce the schedule soon.
+This is prelimenary workshop schedule.The workshop will be hold in the workshop room at the Rainmaking Loft. The times and order are subject to change.
+
+| Time  | Workshop Topic                     | Presenter           |
+|-------|------------------------------------|---------------------|
+| 11:00 | HelloFresh API Challenge Workshop  | TBA                 |
+| 11:30 | Metro Challenge Workshop           | Vahid Gharavi       |
+| 12:00 | Lidl Challenge Workshop            | Dr. Philipp Götting |
+| 12:30 | HelloFresh Data Challenge Workshop | TBA                 |
+| 13:00 | Minodes Challenge Workshop         | Alexander Mueller   |
+| 14:00 | Imagga API Workshop                | Chris Georgiev      |
+| 14:30 | Spoonacular API Workshop           | David Urbansky      |
+| 15:00 | Discounto API Workshop             | Jan Breger          |
 
 
 ## Information for API and Challenges Sponsors and Partners
