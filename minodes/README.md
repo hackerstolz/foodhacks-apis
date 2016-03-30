@@ -98,7 +98,19 @@ After this step you listen to the signals of the specified nodes. Those will be 
             console.log('Node event from: ' +node_id)
             console.log(data)
         });
-````
+```
+
+This event will give you the node_id of the node where the signal comes from and the parsed wifi information itself:
+
+```javascript
+    {
+    vendor: "Samsung", // The manufacturer of the wifi device / chip
+    time: "2016-03-30 08:15:26.695836", // the UTC timestamp 
+    minodes_id: "d301357e903107113676604fd3bf6aacf26ad5096bbbbf9d3fbf7f84",  // the hashed minodes id
+    strength: -75 // the signal strength is decibel (db)
+    }
+
+```
 
 That is basically all that you need to know, about our MinodesNow platform. 
 
