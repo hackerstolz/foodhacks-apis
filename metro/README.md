@@ -5,7 +5,12 @@
 </p>
 
 ## Challenge Description
-TBA
+
+Build the future of shopping! Or at least a small inspirational start which can be built on.
+
+We (METRO Cash & Carry) will provide you access to the anonymized purchase history of 660 of our customers spanning over the last 6 months. Around 200 of these customers get goods delivered and the other visit our stores. The total number of transactions (1 article per line) spans over 2.2 million lines.
+
+We're very eager to see what kind of creative ideas you can come up with in order to improve the experience of our customers, or METRO Cash & Carry, using this chunk of data. Some ideas we have are showing interesting infographics (either to us or to our customers) based on their shopping habits, recommendations, relevant marketing, the possibilities are endless.
 
 ## Authentification
 In order to secure the API we use a JWT based authentification system.
