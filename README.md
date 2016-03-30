@@ -19,6 +19,7 @@ For this APIs there is no special API prizes.
 - [Spoonacular](https://github.com/hackerstolz/foodhacks-apis/tree/master/Spoonacular)
 - [Discounto](http://www.discounto.de/)
 - [Imagga](https://imagga.com/)
+- [P2PKit](http://p2pkit.io/)
 
 ## Challenge & API Workshops at food{hacks}
 This is prelimenary workshop schedule.The workshop will be hold in the workshop room at the Rainmaking Loft. The times and order are subject to change.
@@ -31,7 +32,7 @@ This is prelimenary workshop schedule.The workshop will be hold in the workshop 
 | 12:30 | Minodes Challenge Workshop         | Alexander Mueller   |
 | 13:00 | Imagga API Workshop                | Chris Georgiev      |
 | 13:30 | Spoonacular API Workshop           | David Urbansky      |
-| 14:00 | P2PKit API Workshop                | TODO                |
+| 14:00 | P2PKit API Workshop                | Samuel Schläpfer    |
 | 14:00 | Discounto API Workshop             | Jan Breger          |
 
 
