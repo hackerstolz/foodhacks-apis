@@ -30,9 +30,10 @@ The challenge can be taken by various angles. Which one is your choice?
 
 ### Dataset Description
 
-Lidl will provide two datasets as mentioned above. A detailled description can be found here
+Lidl will provide two datasets as mentioned above. A detailled description can be found here.
 
-#### Product Database
+Please download them [here](https://github.com/hackerstolz/foodhacks-apis/blob/master/lidl/Hackathon-Lidl-Data.zip)
+
 | Field                       	| Datatype                   	| Description                                                                                 	|
 |-----------------------------	|----------------------------	|---------------------------------------------------------------------------------------------	|
 | productId                   	| Long                       	| The unique identifier of a product                                                          	|
@@ -48,8 +49,6 @@ Lidl will provide two datasets as mentioned above. A detailled description can b
 | Rating.ratingCount          	| Int                        	| How often the products was rated                                                            	|
 | Rating.ratingStarts         	| Float                      	| The average rating of the product                                                           	|
 
-#### Shopping Basket Data
-TBA
 
 ## Contacts
 - Arthur Jonas (Teamleader Lidl Mobile)
