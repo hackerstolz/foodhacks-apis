@@ -1,20 +1,28 @@
-# Minodes Wifi Proximity Challenge
+# Minodes Challenge
 
 <p align="center">
     <img alt="Minodes Logo" src="http://minodes.com.www351.your-server.de/cmsImages/pressLogos/logo_minodes_turkis.png" width="250px" />
 </p>
 
+## TL;DR
 
-## Challenge Description
+We provide an API that give you proximity data of any Wifi device (phone, laptop, printer, etc.) at specific positions (3 at the hackathon venue).  We want you to build uses cases on top of it! Think about blending different use cases together, to build hacks and apps for the (food) retail of the future. 
+
+Just some random projects idea:
+ - Build a live heat-map of a supermarket (a.k.a the hackathon location) e.g.: By Trilitaration
+ - Use the proximity data to enable a rich customer journey a.k.a WIFI Beacons
+ - Build a system that alerts you when some customers are coming into the store
+
+
+## Description
 MinodesNow is a platform that enables developers to detect wifi devices near a certain location/node. For this purpose the nodes sniff which devices are currently looking for available wifi networks and read out this so called probe-request. These requests contain the client device mac address and a [RSSI](https://en.wikipedia.org/wiki/Received_signal_strength_indication)-value indicating the signal strength of the perceived probe-request.
 
 MinodesNow parses these signal filters out useless requests and provides a nice and clean interface to access this information easily to build wifi proximity information boosted applications. Example use-case that benefit from this technology might include wifi positioning for retailers, loyalty structure analytics for offline retailers amoung many others. 
 
 ## Goals
-TBA
+The team that uses our API in the most innovative way will win the challenge prize, so get creative about it!
 
 ## API Description
-
 We used socket.io to implement MinodesNow. Socket.io mainly uses websockets but also provides fall-back options to polling, while keeping the same interface.
 
 Our platform was mainly build to show case the information you get from Wifi data and enable external developers to build upon this data. Therefore, we provide a very simple interface to access the data.
