@@ -13,6 +13,7 @@ Just some random projects ideas:
  - Use the proximity data to enable a rich customer journey a.k.a WIFI Beacons
  - Build a system that alerts you when some customers are coming into the store
 
+We think our challenge is perfect to mix it with other ideas and add a localisation aspect to it!
 
 ## Description
 MinodesNow is a platform that enables developers to detect wifi devices near a certain location/node. For this purpose the nodes sniff which devices are currently looking for available wifi networks and read out this so called probe-request. These requests contain the client device mac address and a [RSSI](https://en.wikipedia.org/wiki/Received_signal_strength_indication)-value indicating the signal strength of the perceived probe-request.
