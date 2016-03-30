@@ -15,15 +15,20 @@ Just some random projects ideas:
 
 We think our challenge is perfect to mix it with other ideas and add a localisation aspect to it!
 
+Contact Alexander Mueller in case of any questions!
+
 ## Description
+
 MinodesNow is a platform that enables developers to detect wifi devices near a certain location/node. For this purpose the nodes sniff which devices are currently looking for available wifi networks and read out this so called probe-request. These requests contain the client device mac address and a [RSSI](https://en.wikipedia.org/wiki/Received_signal_strength_indication)-value indicating the signal strength of the perceived probe-request.
 
-MinodesNow parses these signal filters out useless requests and provides a nice and clean interface to access this information easily to build wifi proximity information boosted applications. Example use-case that benefit from this technology might include wifi positioning for retailers, loyalty structure analytics for offline retailers amoung many others. 
+MinodesNow parses these signal, filters out useless requests and provides a nice and clean interface to access this information easily to build wifi proximity information boosted applications. Example use-case that benefit from this technology might include wifi positioning for retailers, loyalty structure analytics for offline retailers among many others. 
 
 ## Goals
+
 The team that uses our API in the most innovative way will win the challenge prize, so get creative about it!
 
 ## API Description
+
 We used socket.io to implement MinodesNow. Socket.io mainly uses websockets but also provides fall-back options to polling, while keeping the same interface.
 
 Our platform was mainly build to show case the information you get from Wifi data and enable external developers to build upon this data. Therefore, we provide a very simple interface to access the data.
@@ -33,9 +38,11 @@ First of all you need to get access to the API. Therefore, please contact Alexan
 The API consists out of a classical restful part and socket io part.
 
 ### Restful Routes
+
 The routes are secured by basic authentification.
 
 #### Node List
+
 Returns the list of nodes that you are able to access. Please use this ids to join this nodes later.
 
 ```
@@ -46,6 +53,7 @@ Cache-Control: no-cache
 ```
 
 #### Minodes ID
+
 This returns the minodes id of a MAC address. This is basically a salted hash of the mac address. 
 This will be used in the whole minodes environment to identify a wifi device.
 
@@ -57,9 +65,42 @@ Cache-Control: no-cache
 ```
 
 ### Socket.io Interface
-The socket.io Interface is a little bit more complex
+The socket.io interface is a little bit more complex ;-), but still nothing too complex.
 
-TBA
+You can access with your user multiple nodes within the same socket connection. For this we facilitate the concept of rooms.
+
+You need to connect to the socket.io server of now.minodes.com on port 80. Please also specify the namespace:
+```javascript
+  var socket = io('http://now.minodes.com/minodes');
+```
+After you connected to the server you need to authentificate yourself.You do this by emit an event to the server with your credentials as the payload.
+
+```javascript
+   socket.on('connect', function(){
+            console.log('connected')
+            socket.emit('authenticate', {"user": "foodhacks@minodes.com", "pass": "please_add_here"})
+    });
+```
+Now you are good to go and can join a node of your choice.
+
+```javascript
+        socket.on('authenticated', function(data){
+            console.log('Nodes available: ' + data['nodes'])
+            socket.emit('join', {"node":data['nodes'][0]})
+            //socket.emit('join', {"node":data['nodes'][1]}) to join all nodes
+            //socket.emit('join', {"node":data['nodes'][2]}) to join all nodes
+        });
+```
+After this step you listen to the signals of the specified nodes. Those will be emitted as a 'minodes_node_event' in the specific rooms
+
+```javascript
+  socket.on('minodes_node_event',function(node_id,data){
+            console.log('Node event from: ' +node_id)
+            console.log(data)
+        });
+````
+
+That is basically all that you need to know, about our MinodesNow platform. 
 
 ### Example
 We provide a python and javascript example usage with the auth hand-shake and some simple data receiver.
