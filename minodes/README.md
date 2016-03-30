@@ -69,7 +69,7 @@ This is a small python based example client.
 pip install socketIO-client==0.6.5
 ```
 
-```
+```python
 #!/usr/bin/env python3
 from socketIO_client import SocketIO, BaseNamespace
 
@@ -106,4 +106,41 @@ with SocketIO('http://now.minodes.com', 80, Namespace) as socketIO:
     socketIO.wait(seconds=60)
 ```
 #### Javascript
-TODO
+Here comes the javascript equivalent.
+
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MinodesNow Test Client</title>
+    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+
+    <script>
+        var socket = io('http://now.minodes.com/minodes');
+
+        socket.on('connect', function(){
+            console.log('connected')
+            socket.emit('authenticate', {"user": "foodhacks@minodes.com", "pass": "please_add_here"})
+        });
+
+        socket.on('authenticated', function(data){
+            console.log('Nodes available: ' + data['nodes'])
+            socket.emit('join', {"node":data['nodes'][0]})
+        });
+
+        socket.on('joined',function(data){
+            console.log(data)
+        });
+
+        socket.on('minodes_node_event',function(data){
+            console.log(data)
+        });
+
+    </script>
+</head>
+<body>
+Check the Dev console.
+</body>
+</html>
+```
