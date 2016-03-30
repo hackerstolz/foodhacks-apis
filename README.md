@@ -17,7 +17,7 @@ We will announce challenges  soon. There will be a dedicated prize for this chal
 ## APIs provided by our API Partners
 For this APIs there is no special API prizes.
 - [Spoonacular](https://github.com/hackerstolz/foodhacks-apis/tree/master/Spoonacular)
-- [Discounto] (http://www.discounto.de/)
+- [Discounto](http://www.discounto.de/)
 - [Imagga](https://imagga.com/)
 
 ## Challenge & API Workshops at food{hacks}
@@ -25,14 +25,14 @@ This is prelimenary workshop schedule.The workshop will be hold in the workshop 
 
 | Time  | Workshop Topic                     | Presenter           |
 |-------|------------------------------------|---------------------|
-| 11:00 | HelloFresh API Challenge Workshop  | TBA                 |
+| 11:00 | HelloFresh API Challenge Workshop  | Pedro Carvalho      |
 | 11:30 | Metro Challenge Workshop           | Vahid Gharavi       |
 | 12:00 | Lidl Challenge Workshop            | Dr. Philipp Götting |
-| 12:30 | HelloFresh Data Challenge Workshop | TBA                 |
-| 13:00 | Minodes Challenge Workshop         | Alexander Mueller   |
-| 14:00 | Imagga API Workshop                | Chris Georgiev      |
-| 14:30 | Spoonacular API Workshop           | David Urbansky      |
-| 15:00 | Discounto API Workshop             | Jan Breger          |
+| 12:30 | Minodes Challenge Workshop         | Alexander Mueller   |
+| 13:00 | Imagga API Workshop                | Chris Georgiev      |
+| 13:30 | Spoonacular API Workshop           | David Urbansky      |
+| 14:00 | P2PKit API Workshop                | TODO                |
+| 14:00 | Discounto API Workshop             | Jan Breger          |
 
 
 ## Information for API and Challenges Sponsors and Partners
