@@ -15,13 +15,13 @@ Just some random projects ideas:
 
 We think our challenge is perfect to mix it with other ideas and add a localisation aspect to it!
 
-Contact Alexander Mueller in case of any questions!
+Contact Alexander Mueller (In slack @alexmueller_hs) in case of any questions!
 
 ## Description
 
-MinodesNow is a platform that enables developers to detect wifi devices near a certain location/node. For this purpose the nodes sniff which devices are currently looking for available wifi networks and read out this so called probe-request. These requests contain the client device mac address and a [RSSI](https://en.wikipedia.org/wiki/Received_signal_strength_indication)-value indicating the signal strength of the perceived probe-request.
+MinodesNow is a platform that enables developers to detect wifi devices near a certain location/node. For this purpose the nodes listen which devices are currently looking for available wifi networks and read out this so called probe-request. These requests contain the client device mac address and a [RSSI](https://en.wikipedia.org/wiki/Received_signal_strength_indication)-value indicating the signal strength of the perceived probe-request.
 
-MinodesNow parses these signal, filters out useless requests and provides a nice and clean interface to access this information easily to build wifi proximity information boosted applications. Example use-case that benefit from this technology might include wifi positioning for retailers, loyalty structure analytics for offline retailers among many others. 
+MinodesNow parses these signal, filters out useless requests and provides a nice and clean interface to access this information easily to build wifi proximity information boosted applications. We do not expose the mac adresses directly, but instead give the user the salted hashes of the mac adress to identify wifi devices. Example use-case that benefit from this technology might include wifi positioning for retailers, loyalty structure analytics for offline retailers among many others. 
 
 ## Goals
 
