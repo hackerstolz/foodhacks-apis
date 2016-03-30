@@ -6,14 +6,14 @@
 
 ## TL;DR
 
-We provide an API that give you proximity data of any Wifi device (phone, laptop, printer, etc.) at specific positions (3 at the hackathon venue).  We want you to build uses cases on top of it! Think about blending different use cases together, to build hacks and apps for the (food) retail of the future. 
+We provide an API that give you proximity data of any Wifi device (phone, laptop, printer, etc.) at specific positions (3 at the hackathon venue).  We want you to build your own use cases on top of it! Think about blending different use cases together, to build hacks and apps for the (food) retail of the future. 
 
 Just some random projects ideas:
  - Build a live heat-map of a supermarket (a.k.a the hackathon location) e.g.: by trilateration
  - Use the proximity data to enable a rich customer journey a.k.a WIFI Beacons
  - Build a system that alerts you when some customers are coming into the store
 
-We think our challenge is perfect to mix it with other ideas and add a localisation aspect to it!
+We think our challenge is perfect to mix it with other ideas, enriched with our localisation data.!
 
 Contact Alexander Mueller (In slack @alexmueller_hs) in case of any questions!
 
