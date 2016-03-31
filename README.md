@@ -16,7 +16,7 @@ We will announce challenges  soon. There will be a dedicated prize for this chal
 
 ## APIs provided by our API Partners
 For this APIs there is no special API prizes.
-- [Spoonacular](https://github.com/hackerstolz/foodhacks-apis/tree/master/Spoonacular)
+- [spoonacular](https://github.com/hackerstolz/foodhacks-apis/tree/master/Spoonacular)
 - [Discounto](http://www.discounto.de/)
 - [Imagga](https://imagga.com/)
 - [P2PKit](http://p2pkit.io/)
