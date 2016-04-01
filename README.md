@@ -17,7 +17,7 @@ We will announce challenges  soon. There will be a dedicated prize for this chal
 ## APIs provided by our API Partners
 For this APIs there is no special API prizes.
 - [spoonacular](https://github.com/hackerstolz/foodhacks-apis/tree/master/Spoonacular)
-- [Discounto](http://www.discounto.de/)
+- [Discounto](https://github.com/hackerstolz/foodhacks-apis/tree/master/discounto)
 - [Imagga](https://imagga.com/)
 - [P2PKit](http://p2pkit.io/)
 
@@ -33,7 +33,7 @@ This is prelimenary workshop schedule.The workshop will be hold in the workshop 
 | 13:00 | Imagga API Workshop                | Chris Georgiev      |
 | 13:30 | Spoonacular API Workshop           | David Urbansky      |
 | 14:00 | P2PKit API Workshop                | Samuel Schläpfer    |
-| 14:00 | Discounto API Workshop             | Jan Breger          |
+| 14:00 | Discounto API Workshop             | Jan Dreger (Alex Mueller)         |
 
 
 ## Information for API and Challenges Sponsors and Partners
