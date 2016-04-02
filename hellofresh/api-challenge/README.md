@@ -2,11 +2,12 @@
 
 ## General API Description
 - The HelloFresh API is currently powering most of our customer facing applications: both our iOS and Android apps as well as our websites.
-- Information you need to interact with the HelloFresh API:
-  - API documentation is available on this URL: http://hellofresh.github.io/slate/.
+- To  interact with the HelloFresh API:
+  - Check beforehand the API documentation is available on this URL: http://hellofresh.github.io/slate/.
+  - To obtain an API token visit https://foodhacks2016-api-client.hellofresh.com/
   - Plus, you should attend the API workshop that our Head of Platform Engineering (@pgscandeias) will give at the event.
   - You will also need to issue a valid HelloFresh API token at an url that will be announced at the event.
-
+- To obtain an API token
 
 ## Challenge Description
 - The goal of the challenge is to allow customers to find a HelloFresh recipe they can cook with ingredients that they would have at home.
