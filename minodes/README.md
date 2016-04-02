@@ -152,7 +152,7 @@ class Namespace(BaseNamespace):
         print('Joined room')
         print(args)
 
-    def on_minodes_node_event(self, args):
+    def on_minodes_node_event(self, *args):
         print(args)
 
 
